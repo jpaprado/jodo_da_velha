@@ -1,5 +1,6 @@
-Jogo-da-Velha
+# Jogo da Velha
 
-Tradução do projeto
+Tradução para o português do projeto: https://thecodezine.com/a-simple-python-tic-tac-toe-game-using-pygame/
+
 
 
